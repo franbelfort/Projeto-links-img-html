@@ -1,6 +1,6 @@
 # Exercicios HTML
 
-## Tema: Navegação entre paginas com linnks
+## Tema: Navegação entre paginas com links
 
 ### Lista de exercicios
 
